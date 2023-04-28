@@ -11,8 +11,9 @@ public class Employee {
 	Employee e = new Employee();
 	e.add();
 }
-   public void mul() {
+ public void mul() {
 	System.out.println("mul");
 
 }
 }
+
