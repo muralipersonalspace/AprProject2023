@@ -12,7 +12,7 @@ public class Employee {
 	e.add();
 	}
    public void mul() {
-		System.out.println("mul");
+		System.out.println("mul");   
+   }
 
-}
 }
