@@ -10,10 +10,9 @@ public class Employee {
    public static void main(String[] args) {
 	Employee e = new Employee();
 	e.add();
-}
- public void mul() {
-	System.out.println("mul");
+	}
+   public void mul() {
+		System.out.println("mul");
 
 }
 }
-
